@@ -24,6 +24,7 @@
     <ProjectGuid>{c1cbcd25-b67f-4c99-aa35-67a0b7fab126}</ProjectGuid>
     <RootNamespace>TCPClient</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>TCP_Server</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
